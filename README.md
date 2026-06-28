@@ -8,7 +8,7 @@ STARPHEUS BOT
 https://annaastrs-svg.github.io/STARPHEUS-PAG/
 Take a look to the web page !
 
-also my build (journal.md) :P -> 
+also my build journal.md :P -> 
 
 Orpheus Bot It's a robot inspired by the Hack Club mascot (Orpheus).
 Starpheus is a Wall-E type robot.
